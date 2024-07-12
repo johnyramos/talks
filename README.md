@@ -1,2 +1,2 @@
-# talks
-Materiais de Talks dados na comunidade
+# Talks
+Materiais de Talks ministrados nas comunidades
